@@ -60,7 +60,7 @@ AtliQ’s fiscal year runs from September to August, and the dataset covers actu
 This repository includes a PDF version of the Power BI report hosted on the Power BI Service, along with its underlying data model. Below, you’ll find a screenshot of the data model and a PDF of the report for a quick preview.
 
 - [Dashboard](https://github.com/Joyeta16/Business-Insights-360/blob/main/BI360.pdf)
-- [Data Model](https://github.com/Joyeta16/Business-Insights-360/blob/main/Data%20Model.png)
+- [Data Model](https://github.com/SuryaChandraSatyaSai/Business-Insights360/blob/main/Data%20Model.png)
 
 **NOTE:** The Information Panel includes provisions for FAQs and a downloadable live Excel version for future company use. However, sharing the live Excel version requires the company's permission.  
 The Support Panel provides options to resolve issues, submit feedback, request new features, and review the contingency plan. Company support is needed to integrate these features into the Power BI report.
